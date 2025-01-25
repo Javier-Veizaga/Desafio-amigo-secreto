@@ -27,7 +27,7 @@ Este proyecto fue creado con el propósito de practicar y afianzar conceptos apr
 - Cuando hayas añadido todos los integrantes, haz clic en el botón "Sortear amigo" para comenzar el sorteo.  
   ![Image](https://github.com/user-attachments/assets/d5f97014-d7be-44ec-bdac-a084af976dbb)
 
-  ![Botón para realizar el sorteo]
+  ![Resultado del sorteo]
 
   ![Image](https://github.com/user-attachments/assets/29327c25-d747-49ad-9685-ce7260965876)
 
