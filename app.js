@@ -57,4 +57,5 @@ function limpiarAmigos() {
     //Apunte a listaAmigos por id, y realice la limpieza.
     const listaAmigos = document.getElementById("listaAmigos");
     listaAmigos.innerHTML = "";
+
 }
