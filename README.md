@@ -49,6 +49,7 @@ Este proyecto fue creado con el propósito de practicar y afianzar conceptos apr
 
 ### Lista de participantes:
 ![Lista de participantes]
+
 ![Image](https://github.com/user-attachments/assets/d5f97014-d7be-44ec-bdac-a084af976dbb)
 
 ### Resultado del sorteo:
