@@ -21,10 +21,12 @@ Este proyecto fue creado con el propósito de practicar y afianzar conceptos apr
 
 3. Haz clic en el botón para añadirlo a la lista.  
    ![Botón para agregar participantes]
+   
    ![Image](https://github.com/user-attachments/assets/bac35c71-41b7-48a9-933d-2f84d6823451)
 
 ### Paso 2: Finalizar la lista
 - Cuando hayas añadido todos los integrantes, haz clic en el botón "Sortear amigo" para comenzar el sorteo.
+  
   ![Image](https://github.com/user-attachments/assets/d5f97014-d7be-44ec-bdac-a084af976dbb)
 
   ![Resultado del sorteo]
