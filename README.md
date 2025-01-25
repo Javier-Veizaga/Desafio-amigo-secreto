@@ -16,11 +16,10 @@ Este proyecto fue creado con el propósito de practicar y afianzar conceptos apr
 
 ### Paso 1: Añadir participantes
 1. Escribe el nombre de la persona en el campo de texto.  
-   ![Ejemplo del campo para ingresar nombres]
+   
    ![Image](https://github.com/user-attachments/assets/777be5af-5181-4ec3-a3e9-2036b3a8b39c)
 
 3. Haz clic en el botón para añadirlo a la lista.  
-   ![Botón para agregar participantes]
    
    ![Image](https://github.com/user-attachments/assets/bac35c71-41b7-48a9-933d-2f84d6823451)
 
@@ -50,19 +49,12 @@ Este proyecto fue creado con el propósito de practicar y afianzar conceptos apr
 ### Lista de participantes:
 ![Lista de participantes]
 
-![Image](https://github.com/user-attachments/assets/d5f97014-d7be-44ec-bdac-a084af976dbb)
+![Image](https://github.com/user-attachments/assets/0bad9b2d-9f4d-4027-868a-07d30c91300c)
 
 ### Resultado del sorteo:
-![Resultado del sorteo]
+
 ![Image](https://github.com/user-attachments/assets/29327c25-d747-49ad-9685-ce7260965876)
 
 
 ---
-
-
-
-## Contribuciones
-Este proyecto es el inicio de mi aprendizaje en desarrollo web. Si deseas hacer sugerencias o colaboraciones, ¡estaré encantado de recibirlas!
-
-
 
